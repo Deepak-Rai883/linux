@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#this script to be run with command "screen -m ./sleep.sh"
 i=30
 for j in {1..31};do
 	if (($i >= 10)); 
